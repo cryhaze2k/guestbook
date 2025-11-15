@@ -41,10 +41,12 @@ POST /comments
 GET /comments
 
 Віддає application/json список усіх коментарів (новіші зверху).
+```
 
 📸 Скріншоти
 
 ![Головна сторінка](screenshots/page.png)
 
 ![Лог консолі](screenshots/log.png)
+
 
